@@ -18,20 +18,16 @@ cffi==1.17.1
 chardet==4.0.0
 charset-normalizer==2.1.1
 click==8.1.8
-cloud-init==24.4.1
 colorama==0.4.6
-command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
 cprint==1.2.2
 cryptography==3.4.8
-dbus-python==1.2.18
 defusedxml==0.7.1
 dicttoxml==1.7.16
 dirsearch==0.4.3.post1
 discord-webhook==1.3.1
 distro==1.7.0
-distro-info==1.1+ubuntu0.2
 dnsgen==1.0.4
 dnspython==2.7.0
 docker==5.0.3
@@ -66,9 +62,6 @@ jsonpatch==1.32
 jsonpointer==2.0
 jsonschema==3.2.0
 keyring==23.5.0
-launchpadlib==1.10.16
-lazr.restfulclient==0.14.4
-lazr.uri==1.0.6
 lxml==5.4.0
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
@@ -95,7 +88,6 @@ pycryptodomex==3.22.0
 pydantic==2.11.1
 pydantic_core==2.33.0
 Pygments==2.19.1
-PyGObject==3.42.1
 PyHamcrest==2.0.2
 PyJWT==2.3.0
 pymongo==4.12.0
@@ -105,9 +97,7 @@ pyrsistent==0.18.1
 pyserial==3.5
 PySocks==1.7.1
 pyspnego==0.11.2
-python-apt==2.4.0+ubuntu4
 python-dateutil==2.8.1
-python-debian==0.1.43+ubuntu1.1
 python-dotenv==0.19.2
 python-magic==0.4.24
 pytz==2022.1
@@ -127,8 +117,6 @@ smmap==5.0.2
 sniffio==1.3.1
 sos==4.8.2
 soupsieve==2.6
-ssh-import-id==5.11
-systemd-python==234
 tenacity==8.3.0
 termcolor==2.2.0
 texttable==1.6.4
@@ -140,9 +128,6 @@ truffleHogRegexes==0.0.7
 Twisted==22.1.0
 typing-inspection==0.4.0
 typing_extensions==4.13.0
-ubuntu-pro-client==8001
-ufw==0.36.1
-unattended-upgrades==0.1
 urllib3==1.26.15
 urlparse3==1.1
 wadllib==1.3.6
